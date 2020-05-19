@@ -1,0 +1,5 @@
+env/
+major_data.csv
+chromedriver
+distributions.obj
+__pycache__/
