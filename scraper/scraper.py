@@ -1,7 +1,6 @@
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.wait import WebDriverWait
-from utils import *
-
+from scraper.utils import *
 
 class Scraper:
 	def __init__(self, driver, email, password, fb_group_id):
