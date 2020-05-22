@@ -34,8 +34,8 @@ python main.py -e example_email@gmail.com -p password123 -group_id 2979252675243
 Flags:
 	--email, -e 					string				email to login to your Facebook account
 	--password, -p 					string				password to login to your Facebook account
-	--group_id 						int 				Facebook group ID script will scrape
-	--major_key_word, -m 			string 				key words for your major to search for
+	--group_id 					int 				Facebook group ID script will scrape
+	--major_key_word, -m 				string 				key words for your major to search for
 	--outpath, -o   				string				outpath for CSV file storing the extracted data
 ```
 
