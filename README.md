@@ -18,9 +18,9 @@ python setup.py
 For other operating systems, please complete the following instructions:
 1. Install required packages `pip install -r requirements.txt`
 2. Download [Chrome Driver](https://chromedriver.storage.googleapis.com/81.0.4044.138/)
-  *Once downloaded, unzip the file and move the resulting chromedriver.exe into facebook_scraper
+	Once downloaded, unzip the file and move the resulting chromedriver.exe into facebook_scraper
 3. Download [language model](https://github.com/nreimers/truecaser/releases/download/v1.0/english_distributions.obj.zip)
-  *Once downloaded, unzip the file and move the resulting distributions.obj into facebook_scraper
+	Once downloaded, unzip the file and move the resulting distributions.obj into facebook_scraper
 
 ## Command Usage
 
