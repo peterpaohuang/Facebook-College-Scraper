@@ -8,7 +8,7 @@
 
 ## Installation
 Download project using pip
-```python
+```
 pip install git+https://github.com/peterpaohuang/Facebook-College-Scraper.git
 ```
 If using macOS:
@@ -24,7 +24,7 @@ For other operating systems, please complete the following instructions:
 
 ## Command Usage
 
-```python
+```
 Usage:
 python main.py -e [username] -p [password] -group_id [facebook group ID] -m "[key words 1]" "[key words 2]" "key words 3" -o [outpath]
 
